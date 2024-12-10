@@ -166,9 +166,7 @@ pip install -r requirements.txt
 
 <br><br>
 ## 참고 문헌
-Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems 27 (2014).<br>
-
-Zhao, Yang, et al. "Feature quantization improves gan training." arXiv preprint arXiv:2004.02088 (2020).<br>
-
-Brock, Andrew. "Large Scale GAN Training for High Fidelity Natural Image Synthesis." arXiv preprint arXiv:1809.11096 (2018).
+BigGAN : https://github.com/YangNaruto/FQ-GAN/tree/master/FQ-BigGAN <br>
+CIFAR-100 dataset: [CIFAR-100 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)<br>
+논문 : Brock, Andrew. "Large Scale GAN Training for High Fidelity Natural Image Synthesis." arXiv preprint arXiv:1809.11096 (2018)
 
