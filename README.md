@@ -137,4 +137,5 @@ pip install -r requirements.txt
 
 <br><br>
 ## References
-BigGAN : 
+BigGAN : https://github.com/YangNaruto/FQ-GAN/tree/master/FQ-BigGAN <br>
+CIFAR-100 dataset: [CIFAR-100 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
