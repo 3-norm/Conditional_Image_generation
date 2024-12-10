@@ -147,7 +147,7 @@ pip install -r requirements.txt
 
 ### Model Main Parameters
 #### BigGAN
-> - **Epochs**: 500
+> - **Epochs**: 700
 > - **Learning Rate (LR)**: G : 0.0002 , D : 0.0001
 > - **Initialization** : G : 'N02', D: 'N02'
 > - **EMA** : True
@@ -158,9 +158,9 @@ pip install -r requirements.txt
 #### Random Seed: 112
 |   Score Metrics      | 
 |---------------|
-| FID    |  |
-| Inception-Score   |   |
-| Intra-FID  |    |
+| FID    | 9.66 |
+| Inception-Score   |  36.04 |
+| Intra-FID  |  8.62  |
 
 
 
