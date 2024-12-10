@@ -156,11 +156,11 @@ pip install -r requirements.txt
 
 
 #### Random Seed: 112
-|   Score Metrics      | 
-|---------------|
-| FID    | 9.66 |
-| Inception-Score   |  36.04 |
-| Intra-FID  |  8.62  |
+| Score Metrics      | Value  |
+|--------------------|--------|
+| FID               | 9.66   |
+| Inception-Score   | 36.04  |
+| Intra-FID         | 8.62   |
 
 
 
