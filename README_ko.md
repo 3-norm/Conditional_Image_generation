@@ -145,13 +145,12 @@ pip install -r requirements.txt
 <br><br>
 ## 결과
 
-### 모델 파라미터
+### 모델 주요 파라미터
 #### BigGAN
 > - **Epochs**: 500
-> - **Learning Rate (LR)**: D : 0.0001 , G : 0.0002
-
->
-
+> - **Learning Rate (LR)**: G : 0.0002 , D : 0.0001
+> - **Initialization** : G : 'N02', D: 'N02'
+> - **EMA** : True
 
 
 
