@@ -101,7 +101,7 @@ set_random_seed(112)
 ## 실행 방법
 ### 저장소를 클론하세요.
 ```python
-git clone https://github.com/3-norm/Conditional_Image_Generation.git
+git clone https://github.com/3-norm/Conditional_Image_generation.git
 ```
 #### 파일 구조
 ```
@@ -127,15 +127,17 @@ pip install -r requirements.txt
 
 ### 코드 실행 
 
-1. **Run the BigGAN model**
-   - Open the `train.ipynb` file in Jupyter Notebook and execute the cells sequentially.  
-        The random seed is set to 112 by default, but you can change it as needed.
+1. **BigGAN 모델 학습**
+   - `train.ipynb` 파일을 Jupyter Notebook에서 열고, 셀을 순차적으로 실행하세요.<br>
+      랜덤 시드는 기본적으로 327로 설정되어 있으며, 필요에 따라 변경할 수 있습니다.  
    
-2. **Run the Score Metrics**
-   - 
+2. **점수 계산**
+   - 학습이 끝난 후, 이어서 셀을 순차적으로 실행하여 세 가지 평가지표 점수를 계산하세요.
 
+3. **생성된 이미지 샘플 확인**
 
-    **Setting the Model File Paths**
+   - 1000 반복마다 생성된 이미지 샘플이 samples 폴더에 저장됩니다.<br>
+    이 폴더에는 슈퍼클래스 20개에 대해 각각 10장의 이미지가 생성되어 있으며, 10x20 크기로 배열되어 있습니다.<br>
 
 
 
